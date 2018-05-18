@@ -81,9 +81,7 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  ##repository: https://github.com/dongkelun/dongkelun.github.io.git
-  #repository: https://dongkelun:hyfdkl123@github.com/dongkelun/dongkelun.github.io.git
-  repository:  https://dongkelun:dkl123@git.coding.net/dongkelun/dongkelun.git
+  repository: https://github.com/dongkelun/dongkelun.github.io.git
   branch: master
   message: update 
   

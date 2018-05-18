@@ -1,0 +1,29 @@
+
+{
+	"list": [{
+		"date": "2018-03",
+		"arr": {
+			"year": 2018,
+			"month": 3,
+			"src": ["", "", "", "", "", ""],
+			"link": ["http://p6emlads4.bkt.clouddn.com/201803%E6%98%A5%E6%B8%B801.jpg","http://p6emlads4.bkt.clouddn.com/201803%E6%98%A5%E6%B8%B802.jpg","http://p6emlads4.bkt.clouddn.com/201803%E6%98%A5%E6%B8%B803.jpg"
+					,"http://p6emlads4.bkt.clouddn.com/201803%E6%98%A5%E6%B8%B804.jpg","http://p6emlads4.bkt.clouddn.com/201803%E6%98%A5%E6%B8%B805.jpg","http://p6emlads4.bkt.clouddn.com/201803%E6%98%A5%E6%B8%B806.jpg"],
+			"text": ["2018年3月济南高新万达","2018年3月济南高新万达","2018年3月济南高新会展中心","2018年3月济南高新会展中心","2018年3月济南高新万达","2018年3月济南高新会展中心"],
+			"type": ["image", "image", "image", "image","image", "image"]
+		}
+	}, {
+		"date": "2017-04",
+		"arr": {
+			"year": 2017,
+			"month": 4,
+			"src": ["", "", "", "", "", "", ""],
+			"link": ["http://p6emlads4.bkt.clouddn.com/201704%E5%8D%83%E4%BD%9B%E5%B1%B101.jpg","http://p6emlads4.bkt.clouddn.com/201704%E5%8D%83%E4%BD%9B%E5%B1%B102.jpg","http://p6emlads4.bkt.clouddn.com/201704%E5%8D%83%E4%BD%9B%E5%B1%B103.jpg"
+					,"http://p6emlads4.bkt.clouddn.com/201704%E5%8D%83%E4%BD%9B%E5%B1%B104.jpg","http://p6emlads4.bkt.clouddn.com/201704%E5%8D%83%E4%BD%9B%E5%B1%B105.jpg","http://p6emlads4.bkt.clouddn.com/201704%E5%8D%83%E4%BD%9B%E5%B1%B106.jpg"],
+			"text": ["2017年4月千佛山一日游","2017年4月千佛山一日游","2017年4月千佛山一日游","2017年4月千佛山一日游","2017年4月千佛山一日游","2017年4月千佛山一日游"],
+			"type": ["image","image","image","image","image","image"]
+		}
+	}
+	]
+}
+
+
